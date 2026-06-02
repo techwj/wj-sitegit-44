@@ -1,0 +1,88 @@
+# Validation Report - summer-ice-treats-homemade
+
+Generated: 2026-06-02T15:35:11.523468
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Summer Ice Treats Homemade
+- ✓ Article word count OK: Beginner Summer Ice Treats Homemade: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Summer Ice Treats Homemade
+- ✓ Article word count OK: Beginner Summer Ice Treats Homemade Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Summer Ice Treats Homemade
+- ✓ Article word count OK: Beginner Summer Ice Treats Homemade in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Summer Ice Treats Homemade
+- ✓ Article word count OK: Common Mistakes in Beginner Summer Ice Treats Homemade
+- ✓ Article word count OK: Beginner Summer Ice Treats Homemade for Beginners
+- ✓ Article word count OK: Advanced Beginner Summer Ice Treats Homemade Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Summer Ice Treats Homemade
+- ✓ Article word count OK: Advanced Summer Ice Treats Homemade: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Summer Ice Treats Homemade
+- ✓ Article word count OK: Advanced Summer Ice Treats Homemade Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Summer Ice Treats Homemade
+- ✓ Article word count OK: Advanced Summer Ice Treats Homemade in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Summer Ice Treats Homemade
+- ✓ Article word count OK: Common Mistakes in Advanced Summer Ice Treats Homemade
+- ✓ Article word count OK: Advanced Summer Ice Treats Homemade for Beginners
+- ✓ Article word count OK: Advanced Advanced Summer Ice Treats Homemade Techniques
+- ✓ Article word count OK: The Ultimate Guide to Summer Ice Treats Homemade Tips
+- ✓ Article word count OK: Summer Ice Treats Homemade Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Summer Ice Treats Homemade Tips
+- ✓ Article word count OK: Summer Ice Treats Homemade Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Summer Ice Treats Homemade Tips
+- ✓ Article word count OK: Summer Ice Treats Homemade Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Summer Ice Treats Homemade Tips
+- ✓ Article word count OK: Common Mistakes in Summer Ice Treats Homemade Tips
+- ✓ Article word count OK: Summer Ice Treats Homemade Tips for Beginners
+- ✓ Article word count OK: Advanced Summer Ice Treats Homemade Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Summer Ice Treats Homemade History
+- ✓ Article word count OK: Summer Ice Treats Homemade History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Summer Ice Treats Homemade History
+- ✓ Article word count OK: Summer Ice Treats Homemade History Tips and Best Practices
+- ✓ Article word count OK: The History of Summer Ice Treats Homemade History
+- ✓ Article word count OK: Summer Ice Treats Homemade History in 2026: Current Trends
+- ✓ Article word count OK: Future of Summer Ice Treats Homemade History
+- ✓ Article word count OK: Common Mistakes in Summer Ice Treats Homemade History
+- ✓ Article word count OK: Summer Ice Treats Homemade History for Beginners
+- ✓ Article word count OK: Advanced Summer Ice Treats Homemade History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Summer Ice Treats Homemade
+- ✓ Article word count OK: Trending Summer Ice Treats Homemade: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Summer Ice Treats Homemade
+- ✓ Article word count OK: Trending Summer Ice Treats Homemade Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Summer Ice Treats Homemade
+- ✓ Article word count OK: Trending Summer Ice Treats Homemade in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Summer Ice Treats Homemade
+- ✓ Article word count OK: Common Mistakes in Trending Summer Ice Treats Homemade
+- ✓ Article word count OK: Trending Summer Ice Treats Homemade for Beginners
+- ✓ Article word count OK: Advanced Trending Summer Ice Treats Homemade Techniques
+- ✓ Article word count OK: The Ultimate Guide to Summer Ice Treats Homemade Tutorials
+- ✓ Article word count OK: Summer Ice Treats Homemade Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Summer Ice Treats Homemade Tutorials
+- ✓ Article word count OK: Summer Ice Treats Homemade Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Summer Ice Treats Homemade Tutorials
+- ✓ Article word count OK: Summer Ice Treats Homemade Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Summer Ice Treats Homemade Tutorials
+- ✓ Article word count OK: Common Mistakes in Summer Ice Treats Homemade Tutorials
+- ✓ Article word count OK: Summer Ice Treats Homemade Tutorials for Beginners
+- ✓ Article word count OK: Advanced Summer Ice Treats Homemade Tutorials Techniques
+- ✓ Ad configuration validated

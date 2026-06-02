@@ -1,0 +1,59 @@
+{
+  "siteId": "summer-ice-treats-homemade",
+  "generatedAt": "2026-06-02T15:35:11.523622",
+  "categories": [
+    "beginner-summer-ice-treats-homemade",
+    "advanced-summer-ice-treats-homemade",
+    "tips-summer-ice-treats-homemade",
+    "history-summer-ice-treats-homemade",
+    "trending-summer-ice-treats-homemade",
+    "tutorials-summer-ice-treats-homemade"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-summer-ice-treats-homemade",
+      "category_name": "Beginner Summer Ice Treats Homemade"
+    },
+    {
+      "category_slug": "advanced-summer-ice-treats-homemade",
+      "category_name": "Advanced Summer Ice Treats Homemade"
+    },
+    {
+      "category_slug": "tips-summer-ice-treats-homemade",
+      "category_name": "Summer Ice Treats Homemade Tips"
+    },
+    {
+      "category_slug": "history-summer-ice-treats-homemade",
+      "category_name": "Summer Ice Treats Homemade History"
+    },
+    {
+      "category_slug": "trending-summer-ice-treats-homemade",
+      "category_name": "Trending Summer Ice Treats Homemade"
+    },
+    {
+      "category_slug": "tutorials-summer-ice-treats-homemade",
+      "category_name": "Summer Ice Treats Homemade Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "summer-ice-treats-homemade",
+    "color_scheme": {
+      "name": "Ocean Blue",
+      "primary": "#1e3a8a",
+      "secondary": "#3b82f6",
+      "accent": "#60a5fa",
+      "background": "#f8fafc",
+      "text": "#1e293b",
+      "light": "#f1f5f9"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "centered",
+    "site_title": "Summer Ice Treats Homemade Central",
+    "articles_per_row": 3
+  }
+}
